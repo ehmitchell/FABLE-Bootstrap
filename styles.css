@@ -1,0 +1,23 @@
+.panel{
+	width:30%;
+	margin:1%;
+	text-align: center;
+}
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin-bottom: 60px;
+}
+.navbar-bottom{
+    bottom: 0;
+    height: 60px;
+    position: absolute;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+main {
+    padding: 60px 15px 0;
+}
